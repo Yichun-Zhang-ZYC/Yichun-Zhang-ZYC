@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋 I'm Yichun Zhang! 
+![banner](https://github.com/Yichun-Zhang-ZYC/supplement/blob/main/IMG_4386.jpg)
+## I am an undergraduate student, studying statistis and economics at the Univesity of Toronto
+- 🔭 I’m currently working on some papers and projects about data analysis, statistical modelling and machine learning 
+- 🔭 I'm hoping to become a data scientist/Machine Learning Engineer
+- 🔭 I'm really into data, coding and programming 
 
-<!--
-**Yichun-Zhang-ZYC/Yichun-Zhang-ZYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Find Me by Clicking: 
+[![badge](https://github.com/Yichun-Zhang-ZYC/supplement/blob/main/download.png)](https://www.linkedin.com/in/yichun-zhang-zyc/)
+![badge](https://github.com/Yichun-Zhang-ZYC/supplement/blob/main/website-icon-5.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Check Out Some of My Work: 
+- (#[Study of Tanzania's Education Level](https://github.com/Yichun-Zhang-ZYC/Tanzania-Education-Analysis-with-R))
+- (#[Estimating Influencers of Life Satisfaction using Canadian Social Survey Data](https://github.com/Yichun-Zhang-ZYC/Influencers-of-Life-Satistifaction))
+- (#[Econometrics: Regression Analysis of Wage and Income]((https://github.com/Yichun-Zhang-ZYC/Econometrics---Education-and-wages))
