@@ -7,10 +7,10 @@
 
 
 ### Find Me by Clicking: 
-[![badge](https://github.com/Yichun-Zhang-ZYC/supplement/blob/main/download.png)](https://www.linkedin.com/in/yichun-zhang-zyc/)
-![badge](https://github.com/Yichun-Zhang-ZYC/supplement/blob/main/website-icon-5.png)
+[![image](https://github.com/Yichun-Zhang-ZYC/supplement/blob/main/download.png)](https://www.linkedin.com/in/yichun-zhang-zyc/)
+![image](https://github.com/Yichun-Zhang-ZYC/supplement/blob/main/website-icon-5.png)
 
 ### Check Out Some of My Work: 
-- (#[Study of Tanzania's Education Level](https://github.com/Yichun-Zhang-ZYC/Tanzania-Education-Analysis-with-R))
-- (#[Estimating Influencers of Life Satisfaction using Canadian Social Survey Data](https://github.com/Yichun-Zhang-ZYC/Influencers-of-Life-Satistifaction))
-- (#[Econometrics: Regression Analysis of Wage and Income]((https://github.com/Yichun-Zhang-ZYC/Econometrics---Education-and-wages))
+- [Study of Tanzania's Education Level](https://github.com/Yichun-Zhang-ZYC/Tanzania-Education-Analysis-with-R)
+- [Estimating Influencers of Life Satisfaction using Canadian Social Survey Data](https://github.com/Yichun-Zhang-ZYC/Influencers-of-Life-Satistifaction)
+- [Econometrics: Regression Analysis of Wage and Income]((https://github.com/Yichun-Zhang-ZYC/Econometrics---Education-and-wages)
