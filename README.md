@@ -1,4 +1,4 @@
-<a href="https://kelyzhang.com"><img src="./assets/banner.jpg" alt="Kely Zhang — ML Engineer / AI Engineer / Platform Engineer" width="100%"></a>
+<a href="https://kelyzhang.com"><img src="https://raw.githubusercontent.com/Yichun-Zhang-ZYC/Yichun-Zhang-ZYC/main/assets/banner.jpg" alt="Kely Zhang — ML Engineer / AI Engineer / Platform Engineer" width="100%"></a>
 
 <h3 align="center"><i>ML · AI · Platform Engineering — UChicago MS Applied Data Science ’26</i></h3>
 
@@ -11,7 +11,7 @@
 
 ---
 
-<img src="./assets/kely.png" align="right" width="190" alt="Kely Zhang">
+<img src="https://raw.githubusercontent.com/Yichun-Zhang-ZYC/Yichun-Zhang-ZYC/main/assets/kely.png" align="right" width="190" alt="Kely Zhang">
 
 Hi, I’m **Kely (Yichun) Zhang**. I build the systems around models as much as the models themselves: the pipeline that feeds them, the automation that replaces a manual queue, and the dashboard that tells leadership something is off before production does.
 
