@@ -1,4 +1,4 @@
-<a href="https://kelyzhang.com"><img src="https://raw.githubusercontent.com/Yichun-Zhang-ZYC/Yichun-Zhang-ZYC/main/assets/banner.jpg" alt="Kely Zhang — ML Engineer / AI Engineer / Platform Engineer" width="100%"></a>
+<a href="https://kelyzhang.com"><img src="https://raw.githubusercontent.com/Yichun-Zhang-ZYC/Yichun-Zhang-ZYC/main/assets/kely-zhang-header.jpg" alt="Kely Zhang — ML Engineer / AI Engineer / Platform Engineer" width="100%"></a>
 
 <h3 align="center"><i>ML · AI · Platform Engineering — UChicago MS Applied Data Science ’26</i></h3>
 
