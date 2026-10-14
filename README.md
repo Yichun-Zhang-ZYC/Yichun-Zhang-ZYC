@@ -92,8 +92,17 @@ Right now I’m a **Platform Engineering intern at The OCC** (Options Clearing C
 
 ## Selected projects
 
-| Project | What it is |
-| --- | --- |
+| Project | What it is | |
+| --- | --- | --- |
+| [**MLOps-final**](https://github.com/Yichun-Zhang-ZYC/MLOps-final) | End-to-end MLOps for credit-default prediction: MLflow tracking, FLAML AutoML, FastAPI serving, Docker, Kubernetes manifests, GitHub Actions CI/CD. | [code](https://github.com/Yichun-Zhang-ZYC/MLOps-final) |
+| [**ai-news-sentiment-pipeline**](https://github.com/Yichun-Zhang-ZYC/ai-news-sentiment-pipeline) | BERTopic + NER + fine-tuned DistilBERT tracking how news media covers AI’s impact on business and industry, with an interactive sentiment and topic dashboard. | [live ↗](https://yichun-zhang-zyc.github.io/ai-news-sentiment-pipeline/) |
+| [**plant-disease-classifier**](https://github.com/Yichun-Zhang-ZYC/plant-disease-classifier) | SqueezeNet 1.1 fine-tuned on PlantVillage (98.13% test accuracy). A drag-and-drop leaf classifier that runs entirely client-side with ONNX Runtime Web. | [live ↗](https://yichun-zhang-zyc.github.io/plant-disease-classifier/) |
+| [**ds-prep**](https://github.com/Yichun-Zhang-ZYC/ds-prep) | Interview-prep learning site for data science: SQL, statistics, ML and LLM lessons with in-browser quizzes. React + TypeScript + Firebase. | [live ↗](https://yichun-zhang-zyc.github.io/ds-prep/) |
+| [**data-science-blog-with-devops**](https://github.com/Yichun-Zhang-ZYC/data-science-blog-with-devops) | A data science learning blog shipped with a full DevOps workflow: GitHub Actions CI, Pages deploy, Docker, Kubernetes. | [live ↗](https://yichun-zhang-zyc.github.io/data-science-blog-with-devops/) |
+| [**room-to-grow**](https://github.com/Yichun-Zhang-ZYC/room-to-grow) | An open-source, web-first personal growth app: completing real-life tasks builds a room you actually care about. | [live ↗](https://yichun-zhang-zyc.github.io/room-to-grow/) |
+| [**Street-level dimension estimation**](https://github.com/Yichun-Zhang-ZYC/Real-World-Dimension-and-Metric-Estimation-of-Physical-Features-from-Street-Level-Imagery-) | HERE capstone: real-world metric estimation of physical features from Mapillary imagery and 3D reconstruction. | [code](https://github.com/Yichun-Zhang-ZYC/Real-World-Dimension-and-Metric-Estimation-of-Physical-Features-from-Street-Level-Imagery-) |
+
+--- | --- |
 | [**ai-news-sentiment-pipeline**](https://github.com/Yichun-Zhang-ZYC/ai-news-sentiment-pipeline) | BERTopic + NER + fine-tuned DistilBERT tracking how news media covers AI’s impact on business and industry, with an interactive sentiment and topic dashboard. |
 | [**plant-disease-classifier**](https://github.com/Yichun-Zhang-ZYC/plant-disease-classifier) | SqueezeNet 1.1 fine-tuned on PlantVillage (98.13% test accuracy). A drag-and-drop leaf classifier that runs entirely client-side with ONNX Runtime Web. |
 | [**Street-level dimension estimation**](https://github.com/Yichun-Zhang-ZYC/Real-World-Dimension-and-Metric-Estimation-of-Physical-Features-from-Street-Level-Imagery-) | HERE capstone: real-world metric estimation of physical features from Mapillary imagery and 3D reconstruction. |
